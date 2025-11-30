@@ -1,9 +1,23 @@
 ---
-title: "About"
+title: "About Me"
 ---
+  
+  <br>
 
-About this site
+## My Journey
 
-```{r}
-1 + 1
-```
+Dr. Orabi is a board-certified orthodontist. She completed her residency and Masters in Orthodontics at Case Western Reserve University and has treated thousands of patients in private practice before opening her own office in Shaker Heights. Dr. Orabi is currently an Assistant Clinical Professor and co-Director of the Early Treatment Clinic at Case.
+
+Her passion for dentistry started while accompanying her older sister on visits to the orthodontist. She later completed her Bachelors and Masters degrees in restorative dentistry at Cairo University.
+
+Dr. Orabi has published in the American Journal of Orthodontics and has lectured at international conferences. She loves teaching residents, parents, and children alike about orthodontic treatment. She is interested in aligner treatment, 3D imaging, oral appliances for sleep apnea, and surgical orthodontics. She is currently a member of the American Association of Orthodontics, American Dental Association, and Ohio Dental Association. Dr. Orabi volunteers on medical service trips and received the 2018 Kesling Award for excellence in community service.
+
+
+## Personal Interests
+
+Dr. Orabi has lived in some of the world’s greatest cities including Paris, Cairo, New York, and Pittsburgh. A native of Cairo, Dr. Orabi loves spending time on Egypt’s north coast in the summer, lounging with friends, and karaoke singing. When she’s not at the beach, she enjoys traveling and exploring the world. Dr. Orabi is a resident of Cleveland Heights where she enjoys the simple things in life—a warm cup of tea, a good comedy flick, and spending quality time with her husband Abe.
+..
+..
+---
+  
+
