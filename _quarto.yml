@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Fai A Albuainain"
+  title: "Noha Orabi"
   navbar:
     left:
       - href: index.qmd
@@ -16,13 +16,13 @@ website:
         text: Projects
     right:
       - icon: linkedin
-        href: https://www.linkedin.com/in/fai-albuainain-560058118/?originalSubdomain=sa
-      - text: <i class="ai ai-orcid" style="font-size:1.5em;"></i>
-        href: https://orcid.org/0000-0002-1435-0074
+        href: https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
+      - icon: Practice website
+        href: https://www.orabiorthodontics.com
       - icon: github
-        href: https://github.com/faalbuainain     
+        href:https://nohaorabi.github.io/nohaorabi.github.io-LabX/ 
       - icon: envelope
-        href: mailto:faa84@case.edu
+        href: mailto:ngo2@case.edu
 
 format:
   html:
